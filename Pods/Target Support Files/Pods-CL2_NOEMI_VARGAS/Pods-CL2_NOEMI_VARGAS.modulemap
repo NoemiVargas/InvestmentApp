@@ -1,0 +1,6 @@
+framework module Pods_CL2_NOEMI_VARGAS {
+  umbrella header "Pods-CL2_NOEMI_VARGAS-umbrella.h"
+
+  export *
+  module * { export * }
+}
